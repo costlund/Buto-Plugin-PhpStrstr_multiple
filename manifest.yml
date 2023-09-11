@@ -1,0 +1,22 @@
+version: 1.0.0
+history:
+  1.0.0:
+    date: '2021-02-19'
+    title: 'First version'
+    description: 'First version. Manifest created.'
+plugin:
+  -
+    name: string/array
+    version: 1.4.0
+sys:
+  -
+    name: mercury
+    version:
+      - 2.98.0
+php:
+  version:
+    - 8.2.0
+author: null
+links: null
+description: ''
+third_part_software: null
